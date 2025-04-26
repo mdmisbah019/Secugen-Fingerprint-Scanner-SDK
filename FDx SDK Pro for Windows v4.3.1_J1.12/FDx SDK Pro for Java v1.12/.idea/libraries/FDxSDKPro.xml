@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FDxSDKPro">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netbeans_sample/dist/FDxSDKPro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="FDx SDK Pro for Java v1.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FDxSDKPro_jdk1.6.0_45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FDxSDKPro_jdk1.5_0_21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FDxSDKPro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

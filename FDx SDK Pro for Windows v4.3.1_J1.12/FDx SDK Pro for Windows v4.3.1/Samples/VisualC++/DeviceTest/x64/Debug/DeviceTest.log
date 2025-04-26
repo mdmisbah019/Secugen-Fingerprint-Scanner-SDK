@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+  sgdvcDlg.cpp
+  sgdvc.cpp
+  DibClass.cpp
+  Generating Code...
+  DeviceTest.vcxproj -> F:\FDx SDK Pro for Windows v4.3.1_J1.12\FDx SDK Pro for Windows v4.3.1_J1.12\FDx SDK Pro for Windows v4.3.1\Samples\VisualC++\DeviceTest\x64\Debug\DeviceTest.exe
